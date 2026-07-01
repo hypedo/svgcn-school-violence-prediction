@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+torch
+torch-geometric
+openpyxl
+matplotlib
+seaborn
+jupyter
